@@ -1,0 +1,7 @@
+class result{
+	String sentence1Only;
+}
+
+public result CompareStringCharacters(String sentence1, String sentence2){
+
+}
